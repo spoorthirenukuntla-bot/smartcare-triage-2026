@@ -1,0 +1,6 @@
+{
+  "name": "SmartCare - Hospital Management & Intelligent Triage",
+  "description": "Simple, modern hospital management system for quick patient data organization, rapid retrieval, and intelligent triage.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
